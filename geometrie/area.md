@@ -9,7 +9,7 @@ Ein Quadrat ist ein spezielles Rechteck bei welchem alle Winkel 90° sind und al
 Zur Berechnung können folgende Formeln verwender werden
 ```
 Formeln:
-  A = a2 = a·a
+  A = a² = a·a
   U = 4a = a+a+a+a
 Zeichenerklärung:
   A: Flächenihalt
@@ -57,6 +57,18 @@ Zeichenerklärung:
   π: Kreiszahl (3,14…)
 ```
 
+### Ring
+Ein Ring ist ein spezieller Kreis aus welchem ein Kreis ausgeschnitten wurde
+```
+Formeln:
+  A = Ag - Ak
+  U = siehe Kreis
+Zeichenerklärung:
+  A: Flächenihalt
+  Ag: Flächeninhalt äußerer Kreis
+  Ak: Flächeninhalt innerer Kreis
+```
+
 ## Beispiele
 
 ### Quadrat
@@ -85,6 +97,13 @@ U = a+b+c = 3,5 + 3,5 + 3,5 = 10,5
 »Gegeben sei ein Kreis mit dem Radius 4. Berechne den Umfang und den Flächeninhalt«
 A = πr² = π · 4² = π · 16 = 50,3
 U = 2πr = 2π · 4 = 8π = 25,1
+```
+
+### Ring
+```
+»Gegeben sei ein Ring mit dem Radius 4 und der Wandstärke (b) 3. Berechne den Flächeninhalt«
+rk = r-b = 4-3 = 1;
+A = Ag - Ak = πr² - πrk² = π · 4² - π · 1² = 16π - π = 15π = 47,1
 ```
 
 ## Übungsaufgaben
@@ -116,3 +135,9 @@ U = 2πr = 2π · 4 = 8π = 25,1
  - Berechne den Flächeninhalt und Umfang eines Kreises mit dem Radius 7
  - Berechne den Flächeninhalt und Umfang eines Kreises mit dem Radius 29
  - Berechne den Flächeninhalt und Umfang eines Kreises mit dem Radius 3π
+ 
+ ### Ring
+ - Berechne den Flächeninhalt eines Rings mit dem Radius 3 und dem innen Radius 0,75
+ - Berechne den Flächeninhalt eines Rings mit dem Radius 8,5 und dem innen Radius 2,5
+ - Berechne den Flächeninhalt eines Rings mit dem Radius 10 und der Wandstärke 3
+ - Berechne den Flächeninhalt eines Rings mit dem Radius 40 und der Wandstärke 12
