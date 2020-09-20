@@ -59,30 +59,60 @@ Zeichenerklärung:
 
 ## Beispiele
 
-## Quadrat
+### Quadrat
 ```
-»Gegeben sei ein Quadrat mit der Länge 2. Berechne den Umfang und den Fläckeninhalt«
+»Gegeben sei ein Quadrat mit der Länge 2. Berechne den Umfang und den Flächeninhalt«
 A = a² = 2² = 2·2 = 4
 U = 4a = 4·2 = 8
 ```
 
-## Rechteck
+### Rechteck
 ```
-»Gegeben sei ein Rechteck mit der Länge 2 und der Beite 5. Berechne den Umfang und den Fläckeninhalt«
+»Gegeben sei ein Rechteck mit der Länge 2 und der Beite 5. Berechne den Umfang und den Flächeninhalt«
 A = a·b = 2·5 = 10
 U = 2a+2b = 2·2 + 2·5 = 4+10 = 14
 ```
 
-## Dreieck
+### Dreieck
 ```
-»Gegeben sei ein Dreieck mit den Seitenlängen 3,5 und der Höhe 3. Berechne den Umfang und den Fläckeninhalt«
+»Gegeben sei ein Dreieck mit den Seitenlängen 3,5 und der Höhe 3. Berechne den Umfang und den Flächeninhalt«
 A = 1/2 · gh = 1/2 · 3,5 · 3 = 1/2 · 10,5 = 5,25
 U = a+b+c = 3,5 + 3,5 + 3,5 = 10,5
 ```
 
-## Kreis
+### Kreis
 ```
-»Gegeben sei ein Kreis mit dem Radius 4. Berechne den Umfang und den Fläckeninhalt«
+»Gegeben sei ein Kreis mit dem Radius 4. Berechne den Umfang und den Flächeninhalt«
 A = πr² = π · 4² = π · 16 = 50,3
 U = 2πr = 2π · 4 = 8π = 25,1
 ```
+
+## Übungsaufgaben
+
+### Quadrat
+ - Berechne den Flächeninhalt und Umfang eines Quadrates mit der Länge 3
+ - Berechne den Flächeninhalt und Umfang eines Quadrates mit der Länge 4
+ - Berechne den Flächeninhalt und Umfang eines Quadrates mit der Länge 5
+ - Berechne den Flächeninhalt und Umfang eines Quadrates mit der Länge π
+
+### Rechteck
+ - Berechne den Flächeninhalt und Umfang eines Rechtecks mit der Länge 3 und der Breite 4
+ - Berechne den Flächeninhalt und Umfang eines Rechtecks mit der Länge 6 und der Breite 2
+ - Berechne den Flächeninhalt und Umfang eines Rechtecks mit der Länge 7 und der Breite 9
+ - Berechne den Flächeninhalt und Umfang eines Rechtecks mit der Länge π und der Breite 16
+
+### Dreieck
+ - Berechne den Flächeninhalt eines Dreiecks mit der Grundseitenlänge 3 und Höhe 5
+ - Berechne den Flächeninhalt eines Dreiecks mit der Grundseitenlänge 4 und Höhe 6
+ - Berechne den Flächeninhalt eines Dreiecks mit der Grundseitenlänge 7 und Höhe 2
+ - Berechne den Flächeninhalt eines Dreiecks mit der Grundseitenlänge π und Höhe 5
+ - Berechne den Umfang eines Dreiecks mit den Seiten a=3, b=4, c=4
+ - Berechne den Umfang eines Dreiecks mit den Seiten a=7, b=3, c=3
+ - Berechne den Umfang eines Dreiecks mit den Seiten a=9, b=17, c=17
+ - Berechne den Umfang eines Dreiecks mit den Seiten a=6, b=π, c=π
+
+### Kreis
+ - Berechne den Flächeninhalt und Umfang eines Kreises mit dem Radius 3
+ - Berechne den Flächeninhalt und Umfang eines Kreises mit dem Radius 7
+ - Berechne den Flächeninhalt und Umfang eines Kreises mit dem Radius 29
+ - Berechne den Flächeninhalt und Umfang eines Kreises mit dem Radius 3π
