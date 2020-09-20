@@ -69,6 +69,28 @@ Zeichenerklärung:
   Ak: Flächeninhalt innerer Kreis
 ```
 
+### Hohlformen
+Hohlformen sind Formen aus den andere Formen herausgeschnitten werden. Bspw. ist ein Ring ein kreis aus dem ein Kreis ausgeschnitten wurde.
+```
+Formeln:
+  A = Ag - Ak
+  U = Umfang der äußeren Form
+Zeichenerklärung:
+  A: Flächenihalt
+  Ag: Flächeninhalt äußerer Form
+  Ak: Flächeninhelt innerer Form
+```
+
+### Kombiformen
+Kombiformen sind Formen welche aus zwei oder mehreren zusammengeklebten Formen bestehen
+```
+Formeln:
+  A = A1 + A2 + …
+Zeichenerklärung:
+  A: Flächenihalt
+  A1, A2,…: Flächeninhalt von Teilformen
+```
+
 ## Beispiele
 
 ### Quadrat
@@ -141,3 +163,9 @@ A = Ag - Ak = πr² - πrk² = π · 4² - π · 1² = 16π - π = 15π = 47,1
  - Berechne den Flächeninhalt eines Rings mit dem Radius 8,5 und dem innen Radius 2,5
  - Berechne den Flächeninhalt eines Rings mit dem Radius 10 und der Wandstärke 3
  - Berechne den Flächeninhalt eines Rings mit dem Radius 40 und der Wandstärke 12
+ 
+ ### Hohlform
+  - Nimm zwei Formen den Übungsaufgaben von oben und schneide die kleinere Form von der Größeren Form aus. Berechne davon den Flächeninhalt
+ 
+ ### Kombiformen
+  - Nimm zwei Formen den Übungsaufgaben von oben und klebe diese aneinander aus. Berechne davon den Flächeninhalt.
