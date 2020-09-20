@@ -1,6 +1,6 @@
 # Flächen
 
-In diesem Kapietel beschäftigen wir uns mit dem Flächeninhalt und Umfang diverser Formen
+In diesem Kapitel beschäftigen wir uns mit dem Flächeninhalt und Umfang diverser Formen
 
 ## Quadrat
 
