@@ -4,4 +4,4 @@
  - Geometrie
  - Trigonometrie
  - Analysis
- - Stochastik
+ - ~~Stochastik~~
