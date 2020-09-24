@@ -1,3 +1,0 @@
-# Lineare Funtionen
-
-ToDO
