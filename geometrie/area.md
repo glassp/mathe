@@ -48,6 +48,7 @@ Zeichenerklärung:
 
 ### Kreis
 Zur Berechnung können folgende Formeln verwender werden
+![](https://vm.tiktok.com/ZSmtufBH/)
 ```
 Formeln:
   A = πr² = π·r·r
@@ -61,6 +62,7 @@ Zeichenerklärung:
 
 ### Ring
 Ein Ring ist ein spezieller Kreis aus welchem ein Kreis ausgeschnitten wurde
+
 ```
 Formeln:
   A = Ag - Ak
